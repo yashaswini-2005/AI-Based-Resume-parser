@@ -1,0 +1,179 @@
+{
+  "intents": [
+    {
+      "tag": "Software Developer",
+      "patterns": ["Java", "C++", "Backend", "Spring", "REST", "SQL", "API"],
+      "responses": ["This candidate fits best in a Software Developer role."]
+    },
+    {
+      "tag": "Data Scientist",
+      "patterns": ["Python", "Machine Learning", "Data Analysis", "AI", "Deep Learning", "TensorFlow", "Pandas", "NumPy", "SQL"],
+      "responses": ["This candidate fits best in a Data Scientist role."]
+    },
+    {
+      "tag": "Web Developer",
+      "patterns": ["HTML", "CSS", "JavaScript", "React", "Vue.js", "Angular", "Node.js", "Frontend"],
+      "responses": ["This candidate fits best in a Web Developer role."]
+    },
+    {
+      "tag": "Project Manager",
+      "patterns": ["Leadership", "Agile", "Scrum", "Management", "Team Collaboration", "Stakeholder Management"],
+      "responses": ["This candidate fits best in a Project Manager role."]
+    },
+    {
+      "tag": "Mobile Developer",
+      "patterns": ["Java", "Kotlin", "Swift", "iOS", "Android", "React Native"],
+      "responses": ["This candidate fits best in a Mobile Developer role."]
+    },
+    {
+      "tag": "Data Engineer",
+      "patterns": ["SQL", "ETL", "Big Data", "Hadoop", "Spark", "Apache Kafka", "Data Warehousing"],
+      "responses": ["This candidate fits best in a Data Engineer role."]
+    },
+    {
+      "tag": "DevOps Engineer",
+      "patterns": ["Docker", "Kubernetes", "AWS", "CI/CD", "Terraform", "Jenkins", "Linux"],
+      "responses": ["This candidate fits best in a DevOps Engineer role."]
+    },
+    {
+      "tag": "Quality Assurance",
+      "patterns": ["Manual Testing", "Automation Testing", "Selenium", "Test Plans", "Bug Tracking", "Unit Testing"],
+      "responses": ["This candidate fits best in a Quality Assurance role."]
+    },
+    {
+      "tag": "Business Analyst",
+      "patterns": ["Business Analysis", "Data Analytics", "SQL", "Requirements Gathering", "Data Visualization", "Stakeholder Communication"],
+      "responses": ["This candidate fits best in a Business Analyst role."]
+    },
+    {
+      "tag": "Cloud Architect",
+      "patterns": ["AWS", "Azure", "Google Cloud", "Cloud Computing", "Microservices", "Docker", "Kubernetes"],
+      "responses": ["This candidate fits best in a Cloud Architect role."]
+    },
+    {
+      "tag": "UI/UX Designer",
+      "patterns": ["Figma", "Sketch", "Adobe XD", "Wireframing", "User Research", "Prototyping", "UI Design", "Usability Testing"],
+      "responses": ["This candidate fits best in a UI/UX Designer role."]
+    },
+    {
+      "tag": "System Administrator",
+      "patterns": ["Linux", "Windows Server", "Networking", "System Monitoring", "Virtualization", "Backup and Recovery", "Shell Scripting"],
+      "responses": ["This candidate fits best in a System Administrator role."]
+    },
+    {
+      "tag": "Network Engineer",
+      "patterns": ["Cisco", "Networking", "IP Routing", "VPN", "Firewall", "Network Security", "Wi-Fi"],
+      "responses": ["This candidate fits best in a Network Engineer role."]
+    },
+    {
+      "tag": "Game Developer",
+      "patterns": ["C#", "Unity", "Unreal Engine", "Game Design", "Game Development", "3D Modeling", "Animation"],
+      "responses": ["This candidate fits best in a Game Developer role."]
+    },
+    {
+      "tag": "Marketing Manager",
+      "patterns": ["Digital Marketing", "SEO", "Content Strategy", "Social Media", "Email Marketing", "Google Ads", "Analytics"],
+      "responses": ["This candidate fits best in a Marketing Manager role."]
+    },
+    {
+      "tag": "Sales Executive",
+      "patterns": ["Sales", "Lead Generation", "Customer Relationship Management", "Sales Strategy", "Cold Calling", "Negotiation", "Product Knowledge"],
+      "responses": ["This candidate fits best in a Sales Executive role."]
+    },
+    {
+      "tag": "Graphic Designer",
+      "patterns": ["Adobe Photoshop", "Adobe Illustrator", "Design", "Creative Suite", "Branding", "Typography", "Print Design"],
+      "responses": ["This candidate fits best in a Graphic Designer role."]
+    },
+    {
+      "tag": "Financial Analyst",
+      "patterns": ["Financial Modeling", "Forecasting", "Budgeting", "Excel", "Data Analysis", "Accounting", "Investment Analysis"],
+      "responses": ["This candidate fits best in a Financial Analyst role."]
+    },
+    {
+      "tag": "HR Manager",
+      "patterns": ["Recruitment", "Employee Relations", "HR Policies", "Training and Development", "Performance Management", "Payroll", "Talent Acquisition"],
+      "responses": ["This candidate fits best in a HR Manager role."]
+    },
+    {
+      "tag": "Research Scientist",
+      "patterns": ["Research", "Data Collection", "Lab Experiments", "Analysis", "Scientific Writing", "Peer Review", "Data Analysis"],
+      "responses": ["This candidate fits best in a Research Scientist role."]
+    },
+    {
+      "tag": "Content Writer",
+      "patterns": ["Writing", "Content Strategy", "SEO", "Blogging", "Copywriting", "Research", "Editing"],
+      "responses": ["This candidate fits best in a Content Writer role."]
+    },
+    {
+      "tag": "Operations Manager",
+      "patterns": ["Operations Management", "Process Optimization", "Supply Chain", "Logistics", "Vendor Management", "Cost Reduction", "Inventory Management"],
+      "responses": ["This candidate fits best in an Operations Manager role."]
+    },
+    {
+      "tag": "Cybersecurity Analyst",
+      "patterns": ["Network Security", "Penetration Testing", "Ethical Hacking", "Firewall", "Malware Analysis", "Incident Response", "Risk Assessment"],
+      "responses": ["This candidate fits best in a Cybersecurity Analyst role."]
+    },
+    {
+      "tag": "Software Tester",
+      "patterns": ["Manual Testing", "Automation Testing", "Test Plans", "Selenium", "Bug Tracking", "Unit Testing", "Jira"],
+      "responses": ["This candidate fits best in a Software Tester role."]
+    },
+    {
+      "tag": "Database Administrator",
+      "patterns": ["SQL", "MySQL", "PostgreSQL", "Oracle", "Database Management", "Data Backup", "Data Recovery"],
+      "responses": ["This candidate fits best in a Database Administrator role."]
+    },
+    {
+      "tag": "Artificial Intelligence Engineer",
+      "patterns": ["Machine Learning", "AI", "Deep Learning", "Python", "TensorFlow", "Keras", "Neural Networks"],
+      "responses": ["This candidate fits best in an Artificial Intelligence Engineer role."]
+    },
+    {
+      "tag": "Embedded Systems Engineer",
+      "patterns": ["Embedded C", "Embedded Systems", "Microcontrollers", "Hardware Design", "IoT", "RTOS", "PCB Design"],
+      "responses": ["This candidate fits best in an Embedded Systems Engineer role."]
+    },
+    {
+      "tag": "Full Stack Developer",
+      "patterns": ["HTML", "CSS", "JavaScript", "Node.js", "React", "MongoDB", "Express", "Backend"],
+      "responses": ["This candidate fits best in a Full Stack Developer role."]
+    },
+    {
+      "tag": "Product Manager",
+      "patterns": ["Product Development", "Market Research", "Roadmap", "Product Launch", "Stakeholder Management", "Agile", "Cross-functional Teams"],
+      "responses": ["This candidate fits best in a Product Manager role."]
+    },
+    {
+      "tag": "Legal Advisor",
+      "patterns": ["Legal Research", "Contract Law", "Corporate Law", "Litigation", "Intellectual Property", "Compliance", "Negotiation"],
+      "responses": ["This candidate fits best in a Legal Advisor role."]
+    },
+    {
+      "tag": "Healthcare Analyst",
+      "patterns": ["Healthcare", "Data Analysis", "Patient Care", "Medical Billing", "Data Visualization", "Health IT", "EHR"],
+      "responses": ["This candidate fits best in a Healthcare Analyst role."]
+    },
+    {
+      "tag": "Civil Engineer",
+      "patterns": ["Structural Engineering", "AutoCAD", "Construction", "Project Management", "Building Codes", "Surveying", "Materials Engineering"],
+      "responses": ["This candidate fits best in a Civil Engineer role."]
+    },
+    {
+      "tag": "Product Designer",
+      "patterns": ["UX Design", "Wireframing", "Prototyping", "Sketch", "Figma", "Adobe XD", "3D Modeling"],
+      "responses": ["This candidate fits best in a Product Designer role."]
+    },
+    {
+      "tag": "Research Analyst",
+      "patterns": ["Market Research", "Data Analysis", "Survey Design", "Statistical Analysis", "Data Visualization", "Report Writing"],
+      "responses": ["This candidate fits best in a Research Analyst role."]
+    },
+    {
+      "tag": "Architect",
+      "patterns": ["AutoCAD", "Architecture", "Building Design", "3D Modeling", "Structural Design", "Construction Management", "Urban Planning"],
+      "responses": ["This candidate fits best in an Architect role."]
+    }
+  ]
+}
