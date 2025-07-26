@@ -1,9 +1,0 @@
- pdfplumber  
-cryptography
- phonenumbers 
-tensorflow
- numpy 
-pandas
- flask
-nltk
-python-docx
